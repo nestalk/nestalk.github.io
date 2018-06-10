@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: nestalk.co.uk
+title: Nestalk.co.uk
 email: nestalk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Another attempt at a blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "nestalk.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nestalk
 github_username:  nestalk
+author: Neil Stalker
 
 # Build settings
 markdown: kramdown
@@ -39,3 +40,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+permalink: /:year/:month/:day/:title.html
