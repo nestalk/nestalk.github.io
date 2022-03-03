@@ -4,6 +4,12 @@ permalink: .well-known/openpgpkey
 ---
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	Neil Stalker <nestalk@protonmail.com>
+Comment: Created:	03/03/2022 11:33
+Comment: Type:	2,048-bit RSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs, SSH Authentication
+Comment: Fingerprint:	1FF381E89A57ADD50CFB07807E482DE86C0BD72F
+
 
 mQENBGIgp3oBCADa+Dp1z+t2gtx1R6WskJ98YgQeiqjIV3xTMzVYnMg+Lv8BM7/D
 pnEp00F2IGHTYqWw3CXOzhCCS5g/WY/SP0d5DURjjUcdFA0Ftze9XNulplBFEn4/
