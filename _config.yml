@@ -22,6 +22,9 @@ url: "nestalk.dev" # the base hostname & protocol for your site, e.g. http://exa
 twitter_username: nestalk
 github_username:  nestalk
 author: Neil Stalker
+mastodon: 
+- username: nestalk
+  instance: hachyderm.io
 
 # Build settings
 markdown: kramdown
