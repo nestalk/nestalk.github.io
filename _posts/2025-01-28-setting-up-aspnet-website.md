@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-01-29
+date: 2025-01-28
 categories: tips, c#, braindump
 title: Setting up a AspNet Website with custom user class and all user management pages
 ---
