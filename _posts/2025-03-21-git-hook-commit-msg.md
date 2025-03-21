@@ -22,4 +22,6 @@ fi
 
 Once is save this script to a file called `commit-msg` in the `.git/hooks` folder of my local repository, every time I commit the message will be updated with the ticket number from the current branch.
 
-This will work in all git clients. Except for on OSX for some reason, I don't use a mac so I have not looked into why.
+Only issue is that it is only installed in the local git repository, you can't install it globally for your whole team. In order to share it with the rest of the team you need to add it elsewhere in the repo and ask your teammates to add the hook to their local hooks folder.  
+
+This will work in all git clients and in Windows and Linux. It doesn't work on OSX for some reason, I don't use a mac so I have not looked into why.
